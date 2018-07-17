@@ -1,0 +1,33 @@
+body{
+
+	background-color: #171717;
+}
+
+
+
+.center{    
+
+	    
+
+	 display: flex;
+    justify-content: center;
+align-items: center;
+          height: 13em;
+font-family: 'Pacifico', cursive;
+
+font-size: 60px;
+
+		color: #1266DA;
+
+   
+   }
+
+.aniFlex
+{
+
+position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 0;
+    opacity: 0.3;
+}
